@@ -1,0 +1,36 @@
+{
+  "name": "ravirajhere",
+  "version": "1.0.0",
+  "description": "Ravi Raj — Frontend Developer. Terminal portfolio. Run: npx ravirajhere",
+  "bin": {
+    "ravirajhere": "bin/cli.js"
+  },
+  "main": "src/index.js",
+  "files": [
+    "bin/",
+    "src/"
+  ],
+  "keywords": [
+    "portfolio",
+    "cli",
+    "terminal",
+    "ravirajhere",
+    "developer",
+    "frontend",
+    "resume"
+  ],
+  "author": "Ravi Raj <raviraj2k09@gmail.com> (https://ravirajhere.vercel.app)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravirajhere/cli-portfolio.git"
+  },
+  "homepage": "https://ravirajhere.vercel.app",
+  "bugs": {
+    "url": "https://github.com/ravirajhere/cli-portfolio/issues"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "preferGlobal": true
+}
